@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        pointInTime = "before Version control"
+        pointInTime = "before second commit - first commit automatic when initializing git"
         
         
     }
