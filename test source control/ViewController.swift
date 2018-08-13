@@ -18,6 +18,8 @@ class ViewController: UIViewController {
         
         pointInTime = "before second commit - first commit automatic when initializing git"
         
+        print("this is put in before the third commit")
+        
         
     }
 
